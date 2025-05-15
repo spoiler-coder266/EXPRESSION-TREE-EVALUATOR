@@ -1,0 +1,19 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "map": "cpp",
+        "cmath": "cpp",
+        "memory": "cpp",
+        "sstream": "cpp",
+        "iomanip": "cpp",
+        "cctype": "cpp",
+        "algorithm": "cpp",
+        "stdexcept": "cpp",
+        "functional": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
